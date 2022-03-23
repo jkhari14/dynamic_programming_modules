@@ -1,0 +1,2 @@
+﻿ConsoleApplicationhw4.obj : error LNK2005: _main already defined in problem_solver_4.obj
+C:\Users\13369\Downloads\hw4\ConsoleApplicationhw4\Debug\ConsoleApplicationhw4.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,4 @@
+﻿  problem_solver_5.cpp
+C:\Users\13369\Downloads\hw5\student_code_5.h(104,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\13369\Downloads\hw5\student_code_5.h(106,31): warning C4018: '<=': signed/unsigned mismatch
+  ConsoleApplicationhw5.vcxproj -> C:\Users\13369\Downloads\hw5\ConsoleApplicationhw5\Debug\ConsoleApplicationhw5.exe

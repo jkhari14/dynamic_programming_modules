@@ -1,0 +1,2 @@
+C:\Users\13369\Downloads\hw5\ConsoleApplicationhw5\x64\Debug\ConsoleApplicationhw5.exe
+C:\Users\13369\Downloads\hw5\ConsoleApplicationhw5\x64\Debug\ConsoleApplicationhw5.pdb

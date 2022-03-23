@@ -1,0 +1,4 @@
+﻿  problem_solver_6.cpp
+C:\Users\13369\Downloads\hw6\student_code_6.h(77,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\13369\Downloads\hw6\student_code_6.h(82,23): warning C4018: '<=': signed/unsigned mismatch
+  ConsoleApplicationhw6.vcxproj -> C:\Users\13369\Downloads\hw6\ConsoleApplicationhw6\Debug\ConsoleApplicationhw6.exe
